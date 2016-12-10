@@ -1,0 +1,22 @@
+h1 {
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #f1f1f1;
+}
+
+md-card {
+  font-size: 14px;
+  background-color: #ffffff;
+  margin-top: 10px;
+}
+
+span.vendor {
+  display: block;
+  font-weight: 700;
+}
+
+span.mac {
+  display: block;
+}
